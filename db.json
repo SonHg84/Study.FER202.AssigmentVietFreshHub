@@ -1,0 +1,3703 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@vietfreshhub.vn",
+      "username": "admin",
+      "password": "123456",
+      "fullName": "Nguyễn Hoàng Minh",
+      "role": "ADMIN",
+      "phone": "0906784312",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-22T04:40:47.011Z"
+    },
+    {
+      "id": 2,
+      "email": "hoangvanson@gmail.com",
+      "username": "vuonnhason",
+      "password": "123456",
+      "fullName": "Hoàng Văn Sơn",
+      "role": "SELLER",
+      "phone": "0918372645",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-22T04:40:47.011Z"
+    },
+    {
+      "id": 3,
+      "email": "khonghung@gmail.com",
+      "username": "traicaykhonghung",
+      "password": "123456",
+      "fullName": "Khổng Hưng",
+      "role": "SELLER",
+      "phone": "0935481762",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-22T04:40:47.011Z"
+    },
+    {
+      "id": 4,
+      "email": "phamphuoc@gmail.com",
+      "username": "nongsanphamphuoc",
+      "password": "123456",
+      "fullName": "Phạm Phước",
+      "role": "SELLER",
+      "phone": "0986714352",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-22T04:40:47.011Z"
+    },
+    {
+      "id": 5,
+      "email": "quochuy.pham.ship@gmail.com",
+      "username": "delivery.000001",
+      "password": "123456",
+      "fullName": "Phạm Quốc Huy",
+      "role": "DELIVERY",
+      "phone": "0932851467",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-22T04:40:47.011Z"
+    },
+    {
+      "id": 6,
+      "email": "ngochavo.ship@gmail.com",
+      "username": "delivery.000002",
+      "password": "123456",
+      "fullName": "Võ Ngọc Hà",
+      "role": "DELIVERY",
+      "phone": "0905361874",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-22T04:40:47.011Z"
+    },
+    {
+      "id": 7,
+      "email": "thanhdat.dang.ship@gmail.com",
+      "username": "delivery.000003",
+      "password": "123456",
+      "fullName": "Đặng Thành Đạt",
+      "role": "DELIVERY",
+      "phone": "0984672351",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-22T04:40:47.011Z"
+    },
+    {
+      "id": 8,
+      "email": "thumai.nguyen91@gmail.com",
+      "username": "customer.000001",
+      "password": "123456",
+      "fullName": "Nguyễn Thu Mai",
+      "role": "CUSTOMER",
+      "phone": "0903247816",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-22T04:40:47.011Z"
+    },
+    {
+      "id": 9,
+      "email": "quocbao.tran88@gmail.com",
+      "username": "customer.000002",
+      "password": "123456",
+      "fullName": "Trần Quốc Bảo",
+      "role": "CUSTOMER",
+      "phone": "0987253641",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-22T04:40:47.011Z"
+    },
+    {
+      "id": 10,
+      "email": "minhtuan.le93@gmail.com",
+      "username": "customer.000003",
+      "password": "123456",
+      "fullName": "Lê Minh Tuấn",
+      "role": "CUSTOMER",
+      "phone": "0936185724",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-22T04:40:47.011Z"
+    },
+    {
+      "id": 11,
+      "email": "ngocanh.pham95@gmail.com",
+      "username": "customer.000004",
+      "password": "123456",
+      "fullName": "Phạm Ngọc Anh",
+      "role": "CUSTOMER",
+      "phone": "0917534862",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-22T04:40:47.011Z"
+    },
+    {
+      "id": 12,
+      "email": "thuyduong.vo90@gmail.com",
+      "username": "customer.000005",
+      "password": "123456",
+      "fullName": "Võ Thùy Dương",
+      "role": "CUSTOMER",
+      "phone": "0974826135",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-22T04:40:47.011Z"
+    },
+    {
+      "id": 13,
+      "email": "giahan.dang97@gmail.com",
+      "username": "customer.000006",
+      "password": "123456",
+      "fullName": "Đặng Gia Hân",
+      "role": "CUSTOMER",
+      "phone": "0869351742",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-22T04:40:47.011Z"
+    },
+    {
+      "id": 14,
+      "email": "nhatminh.hoang89@gmail.com",
+      "username": "customer.000007",
+      "password": "123456",
+      "fullName": "Hoàng Nhật Minh",
+      "role": "CUSTOMER",
+      "phone": "0908126437",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-22T04:40:47.011Z"
+    },
+    {
+      "id": 15,
+      "email": "thanhtruc.bui92@gmail.com",
+      "username": "customer.000008",
+      "password": "123456",
+      "fullName": "Bùi Thanh Trúc",
+      "role": "CUSTOMER",
+      "phone": "0937642815",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-22T04:40:47.011Z"
+    },
+    {
+      "id": 16,
+      "email": "quanghuy.do94@gmail.com",
+      "username": "customer.000009",
+      "password": "123456",
+      "fullName": "Đỗ Quang Huy",
+      "role": "CUSTOMER",
+      "phone": "0914268357",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-22T04:40:47.011Z"
+    },
+    {
+      "id": 17,
+      "email": "phuongthao.ngo96@gmail.com",
+      "username": "customer.000010",
+      "password": "123456",
+      "fullName": "Ngô Phương Thảo",
+      "role": "CUSTOMER",
+      "phone": "0981635724",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-22T04:40:47.011Z"
+    },
+    {
+      "id": 18,
+      "email": "duclong.phan87@gmail.com",
+      "username": "customer.000011",
+      "password": "123456",
+      "fullName": "Phan Đức Long",
+      "role": "CUSTOMER",
+      "phone": "0876452139",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-22T04:40:47.011Z"
+    },
+    {
+      "id": 19,
+      "email": "khanhvy.huynh98@gmail.com",
+      "username": "customer.000012",
+      "password": "123456",
+      "fullName": "Huỳnh Khánh Vy",
+      "role": "CUSTOMER",
+      "phone": "0963527481",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-22T04:40:47.011Z"
+    }
+  ],
+  "addresses": [
+    {
+      "id": 1,
+      "userId": 8,
+      "receiverName": "Nguyễn Thu Mai",
+      "phone": "0903247816",
+      "addressLine": "41 Nguyễn Trãi",
+      "ward": "Phường Bến Thành",
+      "province": "TP Hồ Chí Minh",
+      "isDefault": true
+    },
+    {
+      "id": 2,
+      "userId": 9,
+      "receiverName": "Trần Quốc Bảo",
+      "phone": "0987253641",
+      "addressLine": "18 Trần Hưng Đạo",
+      "ward": "Phường Cửa Nam",
+      "province": "Hà Nội",
+      "isDefault": true
+    },
+    {
+      "id": 3,
+      "userId": 10,
+      "receiverName": "Lê Minh Tuấn",
+      "phone": "0936185724",
+      "addressLine": "96 Điện Biên Phủ",
+      "ward": "Phường Gia Định",
+      "province": "TP Hồ Chí Minh",
+      "isDefault": true
+    },
+    {
+      "id": 4,
+      "userId": 11,
+      "receiverName": "Phạm Ngọc Anh",
+      "phone": "0917534862",
+      "addressLine": "86 Bà Triệu",
+      "ward": "Phường Hai Bà Trưng",
+      "province": "Hà Nội",
+      "isDefault": true
+    },
+    {
+      "id": 5,
+      "userId": 12,
+      "receiverName": "Võ Thùy Dương",
+      "phone": "0974826135",
+      "addressLine": "62 Hoàng Hoa Thám",
+      "ward": "Phường Bình Thạnh",
+      "province": "TP Hồ Chí Minh",
+      "isDefault": true
+    },
+    {
+      "id": 6,
+      "userId": 13,
+      "receiverName": "Đặng Gia Hân",
+      "phone": "0869351742",
+      "addressLine": "25 Láng Hạ",
+      "ward": "Phường Giảng Võ",
+      "province": "Hà Nội",
+      "isDefault": true
+    },
+    {
+      "id": 7,
+      "userId": 14,
+      "receiverName": "Hoàng Nhật Minh",
+      "phone": "0908126437",
+      "addressLine": "29 Trần Hưng Đạo",
+      "ward": "Phường Cầu Ông Lãnh",
+      "province": "TP Hồ Chí Minh",
+      "isDefault": true
+    },
+    {
+      "id": 8,
+      "userId": 15,
+      "receiverName": "Bùi Thanh Trúc",
+      "phone": "0937642815",
+      "addressLine": "12 Nguyễn Thái Học",
+      "ward": "Phường Ba Đình",
+      "province": "Hà Nội",
+      "isDefault": true
+    },
+    {
+      "id": 9,
+      "userId": 16,
+      "receiverName": "Đỗ Quang Huy",
+      "phone": "0914268357",
+      "addressLine": "55 Nguyễn Văn Trỗi",
+      "ward": "Phường Phú Nhuận",
+      "province": "TP Hồ Chí Minh",
+      "isDefault": true
+    },
+    {
+      "id": 10,
+      "userId": 17,
+      "receiverName": "Ngô Phương Thảo",
+      "phone": "0981635724",
+      "addressLine": "45 Kim Mã",
+      "ward": "Phường Giảng Võ",
+      "province": "Hà Nội",
+      "isDefault": true
+    },
+    {
+      "id": 11,
+      "userId": 18,
+      "receiverName": "Phan Đức Long",
+      "phone": "0876452139",
+      "addressLine": "37 Nguyễn Thị Minh Khai",
+      "ward": "Phường Sài Gòn",
+      "province": "TP Hồ Chí Minh",
+      "isDefault": true
+    },
+    {
+      "id": 12,
+      "userId": 19,
+      "receiverName": "Huỳnh Khánh Vy",
+      "phone": "0963527481",
+      "addressLine": "72 Nguyễn Chí Thanh",
+      "ward": "Phường Láng",
+      "province": "Hà Nội",
+      "isDefault": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Trái cây Việt Nam",
+      "slug": "trai-cay-viet-nam",
+      "imageUrl": "/images/products/mango-photo.png"
+    },
+    {
+      "id": 2,
+      "name": "Trái cây nhập khẩu",
+      "slug": "trai-cay-nhap-khau",
+      "imageUrl": "/images/products/apple-photo.png"
+    },
+    {
+      "id": 3,
+      "name": "Trái cây hữu cơ",
+      "slug": "trai-cay-huu-co",
+      "imageUrl": "/images/products/avocado-photo.png"
+    },
+    {
+      "id": 4,
+      "name": "Trái cây sơ chế",
+      "slug": "trai-cay-so-che",
+      "imageUrl": "/images/storefront/fruit-cut.png"
+    },
+    {
+      "id": 5,
+      "name": "Combo trái cây",
+      "slug": "combo-trai-cay",
+      "imageUrl": "/images/products/grapes-photo.png"
+    },
+    {
+      "id": 6,
+      "name": "Quà tặng trái cây",
+      "slug": "qua-tang-trai-cay",
+      "imageUrl": "/images/storefront/fruit-gift.png"
+    }
+  ],
+  "shops": [
+    {
+      "id": 1,
+      "ownerId": 2,
+      "name": "Vườn Nhà Sơn",
+      "description": "Trái cây miền Tây theo mùa, nhận hàng mỗi sáng tại kho Tân Phú. Chọn từng đợt chín, đóng túi thoáng và giao theo lịch khách đặt.",
+      "phone": "0918372645",
+      "email": "hoangvanson@gmail.com",
+      "address": "126 Lũy Bán Bích, Phường Tân Phú",
+      "province": "TP Hồ Chí Minh",
+      "logo": "/images/shops/son-logo.svg",
+      "banner": "/images/shops/son-banner.svg",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-27T04:40:47.011Z"
+    },
+    {
+      "id": 2,
+      "ownerId": 3,
+      "name": "Trái Cây Khổng Hưng",
+      "description": "Trái cây tuyển chọn, quy cách hộp nhỏ và thùng quà. Giữ lạnh theo từng nhóm hàng, hỗ trợ chọn độ chín và gói quà khi đặt trước.",
+      "phone": "0935481762",
+      "email": "khonghung@gmail.com",
+      "address": "38 Phố Huế, Phường Hai Bà Trưng",
+      "province": "Hà Nội",
+      "logo": "/images/shops/hung-logo.svg",
+      "banner": "/images/shops/hung-banner.svg",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-29T04:40:47.011Z"
+    },
+    {
+      "id": 3,
+      "ownerId": 4,
+      "name": "Nông Sản Phạm Phước",
+      "description": "Cửa hàng nông sản gia đình đang chuẩn bị danh mục hàng đầu tiên. Hồ sơ người bán đã được duyệt.",
+      "phone": "0986714352",
+      "email": "phamphuoc@gmail.com",
+      "address": "74 Phạm Văn Bạch, Phường Tân Sơn",
+      "province": "TP Hồ Chí Minh",
+      "logo": "/images/shops/phuoc-logo.svg",
+      "banner": "/images/shops/phuoc-banner.svg",
+      "status": "ACTIVE",
+      "createdAt": "2026-10-27T04:40:47.011Z"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "shopId": 1,
+      "categoryId": 1,
+      "name": "Xoài cát Hòa Lộc",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mangos_-_single_and_halved.jpg/960px-Mangos_-_single_and_halved.jpg",
+      "description": "Xoài chín vừa, vỏ vàng nhạt và thịt ít xơ. Chọn quả còn cuống, đóng túi lưới; để nơi thoáng, khi chín chuyển ngăn mát.",
+      "origin": "Tiền Giang, Việt Nam",
+      "status": "ACTIVE",
+      "approval": "APPROVED",
+      "rejectNote": "",
+      "sold": 5,
+      "createdAt": "2026-10-08T04:40:47.011Z"
+    },
+    {
+      "id": 2,
+      "shopId": 1,
+      "categoryId": 1,
+      "name": "Chôm chôm nhãn",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Rambutans_with_seed.jpg/960px-Rambutans_with_seed.jpg",
+      "description": "Chôm chôm nguyên chùm, cùi giòn và vị ngọt nhẹ. Đóng túi có lỗ thoáng, bảo quản ngăn mát và rửa trước khi ăn.",
+      "origin": "Bến Tre, Việt Nam",
+      "status": "ACTIVE",
+      "approval": "APPROVED",
+      "rejectNote": "",
+      "sold": 1,
+      "createdAt": "2026-10-09T04:40:47.011Z"
+    },
+    {
+      "id": 3,
+      "shopId": 1,
+      "categoryId": 1,
+      "name": "Bưởi Năm Roi Vĩnh Long",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Pomelo_fruit.jpg/960px-Pomelo_fruit.jpg",
+      "description": "Bưởi nguyên quả, chọn cỡ khoảng 1,2–1,5 kg. Giao quả chưa bóc để giữ tép mọng; giá theo quy cách đã chọn.",
+      "origin": "Vĩnh Long, Việt Nam",
+      "status": "ACTIVE",
+      "approval": "APPROVED",
+      "rejectNote": "",
+      "sold": 12,
+      "createdAt": "2026-10-10T04:40:47.011Z"
+    },
+    {
+      "id": 4,
+      "shopId": 1,
+      "categoryId": 1,
+      "name": "Cam sành Vĩnh Long",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/960px-Oranges_-_whole-halved-segment.jpg",
+      "description": "Cam vỏ xanh, nhiều nước, phù hợp ép hoặc ăn múi. Phân cỡ trước khi đóng túi; giữ ngăn mát, không ngâm nước trước khi cất.",
+      "origin": "Vĩnh Long, Việt Nam",
+      "status": "ACTIVE",
+      "approval": "APPROVED",
+      "rejectNote": "",
+      "sold": 0,
+      "createdAt": "2026-10-11T04:40:47.011Z"
+    },
+    {
+      "id": 5,
+      "shopId": 1,
+      "categoryId": 1,
+      "name": "Ổi nữ hoàng",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Goiaba_vermelha.jpg/960px-Goiaba_vermelha.jpg",
+      "description": "Ổi nguyên quả, ruột chắc, độ chín vừa để ăn giòn. Đóng túi giấy có lót, rửa sạch và cắt bỏ cuống trước khi dùng.",
+      "origin": "Việt Nam",
+      "status": "ACTIVE",
+      "approval": "APPROVED",
+      "rejectNote": "",
+      "sold": 0,
+      "createdAt": "2026-10-12T04:40:47.011Z"
+    },
+    {
+      "id": 6,
+      "shopId": 1,
+      "categoryId": 1,
+      "name": "Dừa xiêm Bến Tre",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Coconuts_-_single_and_cracked_open.jpg/960px-Coconuts_-_single_and_cracked_open.jpg",
+      "description": "Dừa xiêm nguyên quả, nước ngọt thanh. Đơn đặt gọt vỏ được xử lý khi chuẩn bị giao; phần đã mở nên dùng trong ngày.",
+      "origin": "Bến Tre, Việt Nam",
+      "status": "ACTIVE",
+      "approval": "APPROVED",
+      "rejectNote": "",
+      "sold": 3,
+      "createdAt": "2026-10-13T04:40:47.011Z"
+    },
+    {
+      "id": 7,
+      "shopId": 1,
+      "categoryId": 1,
+      "name": "Nhãn xuồng cơm vàng",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Dimocarpus_longan_fruits.jpg/960px-Dimocarpus_longan_fruits.jpg",
+      "description": "Nhãn nguyên chùm được lựa bỏ quả dập trước khi đóng túi. Cùi dày, thích hợp ăn tươi; bảo quản mát và dùng sớm.",
+      "origin": "Việt Nam",
+      "status": "INACTIVE",
+      "approval": "APPROVED",
+      "rejectNote": "",
+      "sold": 0,
+      "createdAt": "2026-10-14T04:40:47.011Z"
+    },
+    {
+      "id": 8,
+      "shopId": 1,
+      "categoryId": 1,
+      "name": "Dưa hấu Long An",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Vampire_watermelon.jpg",
+      "description": "Dưa hấu nguyên trái, chọn vỏ lành và cuống khô. Quy cách theo khoảng trọng lượng, phần đã cắt cần giữ lạnh và dùng sớm.",
+      "origin": "Long An, Việt Nam",
+      "status": "ACTIVE",
+      "approval": "APPROVED",
+      "rejectNote": "",
+      "sold": 2,
+      "createdAt": "2026-10-15T04:40:47.011Z"
+    },
+    {
+      "id": 9,
+      "shopId": 1,
+      "categoryId": 4,
+      "name": "Sầu riêng Ri6 tách múi",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Durian.jpg/960px-Durian.jpg",
+      "description": "Múi sầu riêng được tách và đóng hộp khi chuẩn bị đơn. Không thêm đường; giữ lạnh 2–5°C và dùng trong ngày sau khi nhận.",
+      "origin": "Việt Nam",
+      "status": "ACTIVE",
+      "approval": "REJECTED",
+      "rejectNote": "Thiếu chứng từ nguồn gốc sau hậu kiểm",
+      "sold": 0,
+      "createdAt": "2026-10-16T04:40:47.011Z"
+    },
+    {
+      "id": 10,
+      "shopId": 1,
+      "categoryId": 1,
+      "name": "Chuối Laba Đà Lạt",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Bananas_on_countertop.JPG/960px-Bananas_on_countertop.JPG",
+      "description": "Chuối bán theo nải, chọn độ chín theo nhu cầu ăn ngay hoặc để chín tiếp. Để nơi khô thoáng, tránh đè lên quả.",
+      "origin": "Đà Lạt, Việt Nam",
+      "status": "ACTIVE",
+      "approval": "PENDING",
+      "rejectNote": "",
+      "sold": 0,
+      "createdAt": "2026-10-07T04:40:47.011Z"
+    },
+    {
+      "id": 11,
+      "shopId": 1,
+      "categoryId": 4,
+      "name": "Mít Thái tách múi",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Jackfruit_NS-1_01_Asit.jpg/960px-Jackfruit_NS-1_01_Asit.jpg",
+      "description": "Mít tách múi, bỏ xơ và đóng hộp kín. Múi có độ chín vừa, giữ ngăn mát; mở hộp nên dùng ngay trong ngày.",
+      "origin": "Việt Nam",
+      "status": "INACTIVE",
+      "approval": "APPROVED",
+      "rejectNote": "",
+      "sold": 0,
+      "createdAt": "2026-10-08T04:40:47.011Z"
+    },
+    {
+      "id": 12,
+      "shopId": 1,
+      "categoryId": 1,
+      "name": "Thanh long ruột trắng Bình Thuận",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Dragon_fruit_.jpg/960px-Dragon_fruit_.jpg",
+      "description": "Thanh long nguyên quả, tai xanh và vỏ không dập. Phân loại quả trước khi đóng túi, phù hợp ăn tươi hoặc làm nước ép.",
+      "origin": "Bình Thuận, Việt Nam",
+      "status": "ACTIVE",
+      "approval": "APPROVED",
+      "rejectNote": "",
+      "sold": 7,
+      "createdAt": "2026-10-09T04:40:47.011Z"
+    },
+    {
+      "id": 13,
+      "shopId": 2,
+      "categoryId": 2,
+      "name": "Táo Gala New Zealand",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/960px-Red_Apple.jpg",
+      "description": "Táo Gala cỡ vừa, thịt giòn, vị ngọt dịu. Đóng khay có đệm từng quả, bảo quản 2–5°C; rửa dưới vòi nước trước khi ăn.",
+      "origin": "New Zealand",
+      "status": "ACTIVE",
+      "approval": "APPROVED",
+      "rejectNote": "",
+      "sold": 1,
+      "createdAt": "2026-10-10T04:40:47.011Z"
+    },
+    {
+      "id": 14,
+      "shopId": 2,
+      "categoryId": 2,
+      "name": "Kiwi xanh New Zealand",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg/960px-Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg",
+      "description": "Kiwi xanh vỏ nâu, vị chua ngọt. Quả còn chắc có thể để chín tự nhiên; khi mềm chuyển ngăn mát và dùng sớm.",
+      "origin": "New Zealand",
+      "status": "ACTIVE",
+      "approval": "APPROVED",
+      "rejectNote": "",
+      "sold": 1,
+      "createdAt": "2026-10-11T04:40:47.011Z"
+    },
+    {
+      "id": 15,
+      "shopId": 2,
+      "categoryId": 2,
+      "name": "Việt quất Peru",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Dish_of_blueberries.jpg/960px-Dish_of_blueberries.jpg",
+      "description": "Việt quất nguyên hộp 125 g, giữ lớp phấn tự nhiên trên vỏ. Bảo quản lạnh, chỉ rửa lượng dùng ngay và không ngâm lâu.",
+      "origin": "Peru",
+      "status": "ACTIVE",
+      "approval": "APPROVED",
+      "rejectNote": "",
+      "sold": 2,
+      "createdAt": "2026-10-12T04:40:47.011Z"
+    },
+    {
+      "id": 16,
+      "shopId": 2,
+      "categoryId": 2,
+      "name": "Cherry đỏ Úc",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Bing_Cherries_%28USDA_ARS%29.jpg/960px-Bing_Cherries_%28USDA_ARS%29.jpg",
+      "description": "Cherry đỏ nguyên cuống, thịt chắc, đóng hộp có lót giấy. Bảo quản 2–5°C, rửa trước khi dùng và bỏ hạt khi cho trẻ nhỏ.",
+      "origin": "Úc",
+      "status": "ACTIVE",
+      "approval": "APPROVED",
+      "rejectNote": "",
+      "sold": 3,
+      "createdAt": "2026-10-13T04:40:47.011Z"
+    },
+    {
+      "id": 17,
+      "shopId": 2,
+      "categoryId": 1,
+      "name": "Nho xanh Ninh Thuận",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Grapes%2C_Dry_Creek_Valley-7705.jpg/960px-Grapes%2C_Dry_Creek_Valley-7705.jpg",
+      "description": "Nho nguyên chùm được chọn quả lành, đóng khay hạn chế xô lệch. Giữ lạnh và chỉ tách, rửa trước khi ăn.",
+      "origin": "Ninh Thuận, Việt Nam",
+      "status": "ACTIVE",
+      "approval": "APPROVED",
+      "rejectNote": "",
+      "sold": 5,
+      "createdAt": "2026-10-14T04:40:47.011Z"
+    },
+    {
+      "id": 18,
+      "shopId": 2,
+      "categoryId": 2,
+      "name": "Lê Hàn Quốc",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Blake%27s_Pride_pears.jpg",
+      "description": "Lê vỏ vàng, nhiều nước, đóng lưới xốp từng quả. Cỡ quả khoảng 400–500 g; giữ ngăn mát và tránh chèn vật nặng lên hộp.",
+      "origin": "Hàn Quốc",
+      "status": "ACTIVE",
+      "approval": "PENDING",
+      "rejectNote": "",
+      "sold": 0,
+      "createdAt": "2026-10-15T04:40:47.011Z"
+    },
+    {
+      "id": 19,
+      "shopId": 2,
+      "categoryId": 2,
+      "name": "Lựu đỏ Peru",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Pomegranate_fruit_-_whole_and_piece_with_arils.jpg/960px-Pomegranate_fruit_-_whole_and_piece_with_arils.jpg",
+      "description": "Lựu nguyên quả, vỏ đỏ lành, phù hợp tách hạt ăn tươi hoặc ép nước. Để mát, phần đã tách giữ trong hộp kín và dùng sớm.",
+      "origin": "Peru",
+      "status": "ACTIVE",
+      "approval": "APPROVED",
+      "rejectNote": "",
+      "sold": 0,
+      "createdAt": "2026-10-16T04:40:47.011Z"
+    },
+    {
+      "id": 20,
+      "shopId": 2,
+      "categoryId": 2,
+      "name": "Đào tiên",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Autumn_Red_peaches.jpg/960px-Autumn_Red_peaches.jpg",
+      "description": "Đào nguyên quả, hương thơm nhẹ, đóng khay có đệm. Chọn quả mềm vừa để dùng; phần còn chắc có thể để chín tiếp ở nơi thoáng.",
+      "origin": "Trung Quốc",
+      "status": "INACTIVE",
+      "approval": "APPROVED",
+      "rejectNote": "",
+      "sold": 0,
+      "createdAt": "2026-10-07T04:40:47.011Z"
+    }
+  ],
+  "variants": [
+    {
+      "id": 1,
+      "productId": 1,
+      "name": "Túi 1 kg",
+      "unit": "kg",
+      "weight": 1,
+      "price": 59000,
+      "comparePrice": 67000,
+      "stock": 46,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "name": "Thùng gia đình 3 kg",
+      "unit": "thùng",
+      "weight": 3,
+      "price": 168000,
+      "comparePrice": 189000,
+      "stock": 46,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 3,
+      "productId": 2,
+      "name": "Túi 500 g",
+      "unit": "túi",
+      "weight": 0.5,
+      "price": 29000,
+      "comparePrice": 33000,
+      "stock": 8,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 4,
+      "productId": 3,
+      "name": "Quả cỡ 1,2 kg",
+      "unit": "quả",
+      "weight": 1.2,
+      "price": 52000,
+      "comparePrice": null,
+      "stock": 33,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 5,
+      "productId": 3,
+      "name": "Cặp hai quả",
+      "unit": "cặp",
+      "weight": 2.4,
+      "price": 99000,
+      "comparePrice": null,
+      "stock": 27,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6,
+      "productId": 4,
+      "name": "Túi 1 kg",
+      "unit": "kg",
+      "weight": 1,
+      "price": 32000,
+      "comparePrice": 36000,
+      "stock": 35,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7,
+      "productId": 4,
+      "name": "Túi ép nước 2 kg",
+      "unit": "túi",
+      "weight": 2,
+      "price": 58000,
+      "comparePrice": 65000,
+      "stock": 38,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8,
+      "productId": 5,
+      "name": "Túi 1 kg",
+      "unit": "kg",
+      "weight": 1,
+      "price": 35000,
+      "comparePrice": 40000,
+      "stock": 3,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 9,
+      "productId": 6,
+      "name": "Một quả gọt vỏ",
+      "unit": "quả",
+      "weight": 0.9,
+      "price": 24000,
+      "comparePrice": null,
+      "stock": 42,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10,
+      "productId": 7,
+      "name": "Túi 500 g",
+      "unit": "túi",
+      "weight": 0.5,
+      "price": 46000,
+      "comparePrice": 52000,
+      "stock": 39,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11,
+      "productId": 8,
+      "name": "Trái cỡ 2 kg",
+      "unit": "trái",
+      "weight": 2,
+      "price": 48000,
+      "comparePrice": 54000,
+      "stock": 0,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 12,
+      "productId": 8,
+      "name": "Trái cỡ 3 kg",
+      "unit": "trái",
+      "weight": 3,
+      "price": 69000,
+      "comparePrice": 78000,
+      "stock": 0,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 13,
+      "productId": 9,
+      "name": "Hộp múi 400 g",
+      "unit": "hộp",
+      "weight": 0.4,
+      "price": 149000,
+      "comparePrice": null,
+      "stock": 51,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 14,
+      "productId": 10,
+      "name": "Nải cỡ 700 g",
+      "unit": "nải",
+      "weight": 0.7,
+      "price": 23000,
+      "comparePrice": 26000,
+      "stock": 50,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 15,
+      "productId": 10,
+      "name": "Nải cỡ 1 kg",
+      "unit": "nải",
+      "weight": 1,
+      "price": 31000,
+      "comparePrice": 35000,
+      "stock": 54,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 16,
+      "productId": 10,
+      "name": "Túi chuối chín 1,5 kg",
+      "unit": "túi",
+      "weight": 1.5,
+      "price": 42000,
+      "comparePrice": 48000,
+      "stock": 56,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 17,
+      "productId": 11,
+      "name": "Hộp múi 500 g",
+      "unit": "hộp",
+      "weight": 0.5,
+      "price": 49000,
+      "comparePrice": 55000,
+      "stock": 56,
+      "lowStock": 5,
+      "status": "INACTIVE"
+    },
+    {
+      "id": 18,
+      "productId": 12,
+      "name": "Túi 1 kg",
+      "unit": "kg",
+      "weight": 1,
+      "price": 28000,
+      "comparePrice": null,
+      "stock": 58,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 19,
+      "productId": 12,
+      "name": "Thùng 5 kg",
+      "unit": "thùng",
+      "weight": 5,
+      "price": 125000,
+      "comparePrice": null,
+      "stock": 31,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 20,
+      "productId": 13,
+      "name": "Khay 4 quả",
+      "unit": "khay",
+      "weight": 0.7,
+      "price": 89000,
+      "comparePrice": 100000,
+      "stock": 26,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 21,
+      "productId": 13,
+      "name": "Hộp 1 kg",
+      "unit": "hộp",
+      "weight": 1,
+      "price": 119000,
+      "comparePrice": 134000,
+      "stock": 20,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 22,
+      "productId": 13,
+      "name": "Thùng 3 kg",
+      "unit": "thùng",
+      "weight": 3,
+      "price": 339000,
+      "comparePrice": 380000,
+      "stock": 54,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 23,
+      "productId": 14,
+      "name": "Hộp 500 g",
+      "unit": "hộp",
+      "weight": 0.5,
+      "price": 79000,
+      "comparePrice": 89000,
+      "stock": 8,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 24,
+      "productId": 14,
+      "name": "Hộp tuyển chọn 1 kg",
+      "unit": "hộp",
+      "weight": 1,
+      "price": 149000,
+      "comparePrice": 167000,
+      "stock": 8,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 25,
+      "productId": 15,
+      "name": "Hộp 125 g",
+      "unit": "hộp",
+      "weight": 0.125,
+      "price": 85000,
+      "comparePrice": null,
+      "stock": 3,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 26,
+      "productId": 16,
+      "name": "Hộp 500 g",
+      "unit": "hộp",
+      "weight": 0.5,
+      "price": 219000,
+      "comparePrice": 246000,
+      "stock": 20,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 27,
+      "productId": 16,
+      "name": "Hộp quà 1 kg",
+      "unit": "hộp",
+      "weight": 1,
+      "price": 429000,
+      "comparePrice": 481000,
+      "stock": 33,
+      "lowStock": 5,
+      "status": "INACTIVE"
+    },
+    {
+      "id": 28,
+      "productId": 17,
+      "name": "Khay 500 g",
+      "unit": "khay",
+      "weight": 0.5,
+      "price": 59000,
+      "comparePrice": 67000,
+      "stock": 39,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 29,
+      "productId": 17,
+      "name": "Hộp 1 kg",
+      "unit": "hộp",
+      "weight": 1,
+      "price": 109000,
+      "comparePrice": 123000,
+      "stock": 43,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 30,
+      "productId": 18,
+      "name": "Hộp hai quả",
+      "unit": "hộp",
+      "weight": 0.9,
+      "price": 129000,
+      "comparePrice": null,
+      "stock": 32,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 31,
+      "productId": 19,
+      "name": "Túi hai quả",
+      "unit": "túi",
+      "weight": 0.8,
+      "price": 139000,
+      "comparePrice": 156000,
+      "stock": 31,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 32,
+      "productId": 19,
+      "name": "Hộp quà bốn quả",
+      "unit": "hộp",
+      "weight": 1.6,
+      "price": 269000,
+      "comparePrice": 302000,
+      "stock": 30,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 33,
+      "productId": 20,
+      "name": "Khay 500 g",
+      "unit": "khay",
+      "weight": 0.5,
+      "price": 89000,
+      "comparePrice": 100000,
+      "stock": 56,
+      "lowStock": 5,
+      "status": "ACTIVE"
+    }
+  ],
+  "coupons": [
+    {
+      "id": 1,
+      "shopId": 1,
+      "code": "SONGIADINH",
+      "name": "Giỏ trái cây gia đình",
+      "discount": 15000,
+      "minOrder": 150000,
+      "usageLimit": 500,
+      "used": 0,
+      "startAt": "2026-10-23T04:40:47.011Z",
+      "endAt": "2026-11-13T04:40:47.011Z",
+      "status": "ACTIVE"
+    },
+    {
+      "id": 2,
+      "shopId": 2,
+      "code": "HUNGCHONLOC",
+      "name": "Trái cây tuyển chọn cuối tuần",
+      "discount": 25000,
+      "minOrder": 300000,
+      "usageLimit": 500,
+      "used": 0,
+      "startAt": "2026-10-23T04:40:47.011Z",
+      "endAt": "2026-11-13T04:40:47.011Z",
+      "status": "ACTIVE"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "code": "VF100001",
+      "customerId": 16,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 19,
+          "productId": 12,
+          "productName": "Thanh long ruột trắng Bình Thuận",
+          "variantName": "Thùng 5 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Dragon_fruit_.jpg/960px-Dragon_fruit_.jpg",
+          "price": 125000,
+          "quantity": 2
+        }
+      ],
+      "subtotal": 250000,
+      "shippingFee": 18000,
+      "discount": 0,
+      "total": 268000,
+      "couponCode": "",
+      "paymentMethod": "BANK_TRANSFER",
+      "paymentStatus": "PAID",
+      "status": "COMPLETED",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Đỗ Quang Huy",
+        "phone": "0914268357",
+        "addressLine": "55 Nguyễn Văn Trỗi",
+        "ward": "Phường Phú Nhuận",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": 5,
+      "createdAt": "2026-11-02T04:40:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-02T04:40:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-02T05:10:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-11-02T05:40:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-11-02T06:10:47.011Z"
+        },
+        {
+          "status": "OUT_FOR_DELIVERY",
+          "at": "2026-11-02T06:40:47.011Z"
+        },
+        {
+          "status": "COMPLETED",
+          "at": "2026-11-02T07:10:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "code": "VF100002",
+      "customerId": 18,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 18,
+          "productId": 12,
+          "productName": "Thanh long ruột trắng Bình Thuận",
+          "variantName": "Túi 1 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Dragon_fruit_.jpg/960px-Dragon_fruit_.jpg",
+          "price": 28000,
+          "quantity": 2
+        },
+        {
+          "variantId": 1,
+          "productId": 1,
+          "productName": "Xoài cát Hòa Lộc",
+          "variantName": "Túi 1 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mangos_-_single_and_halved.jpg/960px-Mangos_-_single_and_halved.jpg",
+          "price": 59000,
+          "quantity": 3
+        }
+      ],
+      "subtotal": 233000,
+      "shippingFee": 12000,
+      "discount": 0,
+      "total": 245000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "PAID",
+      "status": "COMPLETED",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Phan Đức Long",
+        "phone": "0876452139",
+        "addressLine": "37 Nguyễn Thị Minh Khai",
+        "ward": "Phường Sài Gòn",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": 6,
+      "createdAt": "2026-11-01T18:50:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-01T18:50:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-01T19:20:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-11-01T19:50:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-11-01T20:20:47.011Z"
+        },
+        {
+          "status": "OUT_FOR_DELIVERY",
+          "at": "2026-11-01T20:50:47.011Z"
+        },
+        {
+          "status": "COMPLETED",
+          "at": "2026-11-01T21:20:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "code": "VF100003",
+      "customerId": 12,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 3,
+          "productId": 2,
+          "productName": "Chôm chôm nhãn",
+          "variantName": "Túi 500 g",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Rambutans_with_seed.jpg/960px-Rambutans_with_seed.jpg",
+          "price": 29000,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 29000,
+      "shippingFee": 18000,
+      "discount": 0,
+      "total": 47000,
+      "couponCode": "",
+      "paymentMethod": "BANK_TRANSFER",
+      "paymentStatus": "PAID",
+      "status": "COMPLETED",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Võ Thùy Dương",
+        "phone": "0974826135",
+        "addressLine": "62 Hoàng Hoa Thám",
+        "ward": "Phường Bình Thạnh",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": 7,
+      "createdAt": "2026-11-01T09:00:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-01T09:00:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-01T09:30:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-11-01T10:00:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-11-01T10:30:47.011Z"
+        },
+        {
+          "status": "OUT_FOR_DELIVERY",
+          "at": "2026-11-01T11:00:47.011Z"
+        },
+        {
+          "status": "COMPLETED",
+          "at": "2026-11-01T11:30:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "code": "VF100004",
+      "customerId": 14,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 5,
+          "productId": 3,
+          "productName": "Bưởi Năm Roi Vĩnh Long",
+          "variantName": "Cặp hai quả",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Pomelo_fruit.jpg/960px-Pomelo_fruit.jpg",
+          "price": 99000,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 99000,
+      "shippingFee": 12000,
+      "discount": 0,
+      "total": 111000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "PAID",
+      "status": "COMPLETED",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Hoàng Nhật Minh",
+        "phone": "0908126437",
+        "addressLine": "29 Trần Hưng Đạo",
+        "ward": "Phường Cầu Ông Lãnh",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": 5,
+      "createdAt": "2026-10-31T23:10:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-10-31T23:10:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-10-31T23:40:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-11-01T00:10:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-11-01T00:40:47.011Z"
+        },
+        {
+          "status": "OUT_FOR_DELIVERY",
+          "at": "2026-11-01T01:10:47.011Z"
+        },
+        {
+          "status": "COMPLETED",
+          "at": "2026-11-01T01:40:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "code": "VF100005",
+      "customerId": 8,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 5,
+          "productId": 3,
+          "productName": "Bưởi Năm Roi Vĩnh Long",
+          "variantName": "Cặp hai quả",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Pomelo_fruit.jpg/960px-Pomelo_fruit.jpg",
+          "price": 99000,
+          "quantity": 3
+        }
+      ],
+      "subtotal": 297000,
+      "shippingFee": 18000,
+      "discount": 0,
+      "total": 315000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "PAID",
+      "status": "COMPLETED",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Nguyễn Thu Mai",
+        "phone": "0903247816",
+        "addressLine": "41 Nguyễn Trãi",
+        "ward": "Phường Bến Thành",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": 6,
+      "createdAt": "2026-10-30T17:40:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-10-30T17:40:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-10-30T18:10:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-10-30T18:40:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-10-30T19:10:47.011Z"
+        },
+        {
+          "status": "OUT_FOR_DELIVERY",
+          "at": "2026-10-30T19:40:47.011Z"
+        },
+        {
+          "status": "COMPLETED",
+          "at": "2026-10-30T20:10:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "code": "VF100006",
+      "customerId": 13,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 5,
+          "productId": 3,
+          "productName": "Bưởi Năm Roi Vĩnh Long",
+          "variantName": "Cặp hai quả",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Pomelo_fruit.jpg/960px-Pomelo_fruit.jpg",
+          "price": 99000,
+          "quantity": 2
+        }
+      ],
+      "subtotal": 198000,
+      "shippingFee": 21000,
+      "discount": 0,
+      "total": 219000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "PAID",
+      "status": "COMPLETED",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Đặng Gia Hân",
+        "phone": "0869351742",
+        "addressLine": "25 Láng Hạ",
+        "ward": "Phường Giảng Võ",
+        "province": "Hà Nội"
+      },
+      "note": "",
+      "deliveryStaffId": 7,
+      "createdAt": "2026-10-30T07:50:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-10-30T07:50:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-10-30T08:20:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-10-30T08:50:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-10-30T09:20:47.011Z"
+        },
+        {
+          "status": "OUT_FOR_DELIVERY",
+          "at": "2026-10-30T09:50:47.011Z"
+        },
+        {
+          "status": "COMPLETED",
+          "at": "2026-10-30T10:20:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "code": "VF100007",
+      "customerId": 10,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 19,
+          "productId": 12,
+          "productName": "Thanh long ruột trắng Bình Thuận",
+          "variantName": "Thùng 5 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Dragon_fruit_.jpg/960px-Dragon_fruit_.jpg",
+          "price": 125000,
+          "quantity": 2
+        },
+        {
+          "variantId": 12,
+          "productId": 8,
+          "productName": "Dưa hấu Long An",
+          "variantName": "Trái cỡ 3 kg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Vampire_watermelon.jpg",
+          "price": 69000,
+          "quantity": 2
+        }
+      ],
+      "subtotal": 388000,
+      "shippingFee": 12000,
+      "discount": 0,
+      "total": 400000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "PAID",
+      "status": "COMPLETED",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Lê Minh Tuấn",
+        "phone": "0936185724",
+        "addressLine": "96 Điện Biên Phủ",
+        "ward": "Phường Gia Định",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": 5,
+      "createdAt": "2026-10-29T22:00:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-10-29T22:00:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-10-29T22:30:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-10-29T23:00:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-10-29T23:30:47.011Z"
+        },
+        {
+          "status": "OUT_FOR_DELIVERY",
+          "at": "2026-10-30T00:00:47.011Z"
+        },
+        {
+          "status": "COMPLETED",
+          "at": "2026-10-30T00:30:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "code": "VF100008",
+      "customerId": 8,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 5,
+          "productId": 3,
+          "productName": "Bưởi Năm Roi Vĩnh Long",
+          "variantName": "Cặp hai quả",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Pomelo_fruit.jpg/960px-Pomelo_fruit.jpg",
+          "price": 99000,
+          "quantity": 3
+        },
+        {
+          "variantId": 4,
+          "productId": 3,
+          "productName": "Bưởi Năm Roi Vĩnh Long",
+          "variantName": "Quả cỡ 1,2 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Pomelo_fruit.jpg/960px-Pomelo_fruit.jpg",
+          "price": 52000,
+          "quantity": 3
+        }
+      ],
+      "subtotal": 453000,
+      "shippingFee": 18000,
+      "discount": 0,
+      "total": 471000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "PAID",
+      "status": "COMPLETED",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Nguyễn Thu Mai",
+        "phone": "0903247816",
+        "addressLine": "41 Nguyễn Trãi",
+        "ward": "Phường Bến Thành",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": 6,
+      "createdAt": "2026-10-29T12:10:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-10-29T12:10:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-10-29T12:40:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-10-29T13:10:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-10-29T13:40:47.011Z"
+        },
+        {
+          "status": "OUT_FOR_DELIVERY",
+          "at": "2026-10-29T14:10:47.011Z"
+        },
+        {
+          "status": "COMPLETED",
+          "at": "2026-10-29T14:40:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "code": "VF100009",
+      "customerId": 10,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 19,
+          "productId": 12,
+          "productName": "Thanh long ruột trắng Bình Thuận",
+          "variantName": "Thùng 5 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Dragon_fruit_.jpg/960px-Dragon_fruit_.jpg",
+          "price": 125000,
+          "quantity": 1
+        },
+        {
+          "variantId": 9,
+          "productId": 6,
+          "productName": "Dừa xiêm Bến Tre",
+          "variantName": "Một quả gọt vỏ",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Coconuts_-_single_and_cracked_open.jpg/960px-Coconuts_-_single_and_cracked_open.jpg",
+          "price": 24000,
+          "quantity": 3
+        }
+      ],
+      "subtotal": 197000,
+      "shippingFee": 12000,
+      "discount": 0,
+      "total": 209000,
+      "couponCode": "",
+      "paymentMethod": "BANK_TRANSFER",
+      "paymentStatus": "PAID",
+      "status": "COMPLETED",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Lê Minh Tuấn",
+        "phone": "0936185724",
+        "addressLine": "96 Điện Biên Phủ",
+        "ward": "Phường Gia Định",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": 7,
+      "createdAt": "2026-11-03T16:40:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-03T16:40:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-03T17:10:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-11-03T17:40:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-11-03T18:10:47.011Z"
+        },
+        {
+          "status": "OUT_FOR_DELIVERY",
+          "at": "2026-11-03T18:40:47.011Z"
+        },
+        {
+          "status": "COMPLETED",
+          "at": "2026-11-03T19:10:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "code": "VF100010",
+      "customerId": 14,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 1,
+          "productId": 1,
+          "productName": "Xoài cát Hòa Lộc",
+          "variantName": "Túi 1 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mangos_-_single_and_halved.jpg/960px-Mangos_-_single_and_halved.jpg",
+          "price": 59000,
+          "quantity": 2
+        }
+      ],
+      "subtotal": 118000,
+      "shippingFee": 12000,
+      "discount": 0,
+      "total": 130000,
+      "couponCode": "",
+      "paymentMethod": "BANK_TRANSFER",
+      "paymentStatus": "PAID",
+      "status": "COMPLETED",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Hoàng Nhật Minh",
+        "phone": "0908126437",
+        "addressLine": "29 Trần Hưng Đạo",
+        "ward": "Phường Cầu Ông Lãnh",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": 5,
+      "createdAt": "2026-11-04T10:40:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-04T10:40:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-04T11:10:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-11-04T11:40:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-11-04T12:10:47.011Z"
+        },
+        {
+          "status": "OUT_FOR_DELIVERY",
+          "at": "2026-11-04T12:40:47.011Z"
+        },
+        {
+          "status": "COMPLETED",
+          "at": "2026-11-04T13:10:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "code": "VF100011",
+      "customerId": 14,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 8,
+          "productId": 5,
+          "productName": "Ổi nữ hoàng",
+          "variantName": "Túi 1 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Goiaba_vermelha.jpg/960px-Goiaba_vermelha.jpg",
+          "price": 35000,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 35000,
+      "shippingFee": 12000,
+      "discount": 0,
+      "total": 47000,
+      "couponCode": "",
+      "paymentMethod": "BANK_TRANSFER",
+      "paymentStatus": "REFUNDED",
+      "status": "CANCELLED",
+      "cancelReason": "Khách hàng đổi ý",
+      "address": {
+        "receiverName": "Hoàng Nhật Minh",
+        "phone": "0908126437",
+        "addressLine": "29 Trần Hưng Đạo",
+        "ward": "Phường Cầu Ông Lãnh",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": null,
+      "createdAt": "2026-10-24T04:40:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-10-24T04:40:47.011Z"
+        },
+        {
+          "status": "CANCELLED",
+          "at": "2026-10-24T05:10:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "code": "VF100012",
+      "customerId": 18,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 12,
+          "productId": 8,
+          "productName": "Dưa hấu Long An",
+          "variantName": "Trái cỡ 3 kg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Vampire_watermelon.jpg",
+          "price": 69000,
+          "quantity": 1
+        },
+        {
+          "variantId": 2,
+          "productId": 1,
+          "productName": "Xoài cát Hòa Lộc",
+          "variantName": "Thùng gia đình 3 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mangos_-_single_and_halved.jpg/960px-Mangos_-_single_and_halved.jpg",
+          "price": 168000,
+          "quantity": 3
+        }
+      ],
+      "subtotal": 573000,
+      "shippingFee": 12000,
+      "discount": 0,
+      "total": 585000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "UNPAID",
+      "status": "CANCELLED",
+      "cancelReason": "Khách hàng đổi ý",
+      "address": {
+        "receiverName": "Phan Đức Long",
+        "phone": "0876452139",
+        "addressLine": "37 Nguyễn Thị Minh Khai",
+        "ward": "Phường Sài Gòn",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": null,
+      "createdAt": "2026-10-24T01:40:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-10-24T01:40:47.011Z"
+        },
+        {
+          "status": "CANCELLED",
+          "at": "2026-10-24T02:10:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "code": "VF100013",
+      "customerId": 14,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 8,
+          "productId": 5,
+          "productName": "Ổi nữ hoàng",
+          "variantName": "Túi 1 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Goiaba_vermelha.jpg/960px-Goiaba_vermelha.jpg",
+          "price": 35000,
+          "quantity": 3
+        },
+        {
+          "variantId": 9,
+          "productId": 6,
+          "productName": "Dừa xiêm Bến Tre",
+          "variantName": "Một quả gọt vỏ",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Coconuts_-_single_and_cracked_open.jpg/960px-Coconuts_-_single_and_cracked_open.jpg",
+          "price": 24000,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 129000,
+      "shippingFee": 12000,
+      "discount": 0,
+      "total": 141000,
+      "couponCode": "",
+      "paymentMethod": "BANK_TRANSFER",
+      "paymentStatus": "PAID",
+      "status": "PENDING",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Hoàng Nhật Minh",
+        "phone": "0908126437",
+        "addressLine": "29 Trần Hưng Đạo",
+        "ward": "Phường Cầu Ông Lãnh",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": null,
+      "createdAt": "2026-11-06T04:05:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-06T04:05:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "code": "VF100014",
+      "customerId": 12,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 12,
+          "productId": 8,
+          "productName": "Dưa hấu Long An",
+          "variantName": "Trái cỡ 3 kg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Vampire_watermelon.jpg",
+          "price": 69000,
+          "quantity": 2
+        }
+      ],
+      "subtotal": 138000,
+      "shippingFee": 18000,
+      "discount": 0,
+      "total": 156000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "UNPAID",
+      "status": "PENDING",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Võ Thùy Dương",
+        "phone": "0974826135",
+        "addressLine": "62 Hoàng Hoa Thám",
+        "ward": "Phường Bình Thạnh",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": null,
+      "createdAt": "2026-11-06T03:22:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-06T03:22:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "code": "VF100015",
+      "customerId": 8,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 5,
+          "productId": 3,
+          "productName": "Bưởi Năm Roi Vĩnh Long",
+          "variantName": "Cặp hai quả",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Pomelo_fruit.jpg/960px-Pomelo_fruit.jpg",
+          "price": 99000,
+          "quantity": 3
+        }
+      ],
+      "subtotal": 297000,
+      "shippingFee": 18000,
+      "discount": 0,
+      "total": 315000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "UNPAID",
+      "status": "PENDING",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Nguyễn Thu Mai",
+        "phone": "0903247816",
+        "addressLine": "41 Nguyễn Trãi",
+        "ward": "Phường Bến Thành",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": null,
+      "createdAt": "2026-11-05T22:21:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-05T22:21:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "code": "VF100016",
+      "customerId": 9,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 4,
+          "productId": 3,
+          "productName": "Bưởi Năm Roi Vĩnh Long",
+          "variantName": "Quả cỡ 1,2 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Pomelo_fruit.jpg/960px-Pomelo_fruit.jpg",
+          "price": 52000,
+          "quantity": 3
+        }
+      ],
+      "subtotal": 156000,
+      "shippingFee": 21000,
+      "discount": 0,
+      "total": 177000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "UNPAID",
+      "status": "PENDING",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Trần Quốc Bảo",
+        "phone": "0987253641",
+        "addressLine": "18 Trần Hưng Đạo",
+        "ward": "Phường Cửa Nam",
+        "province": "Hà Nội"
+      },
+      "note": "",
+      "deliveryStaffId": null,
+      "createdAt": "2026-11-05T21:38:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-05T21:38:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "code": "VF100017",
+      "customerId": 13,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 11,
+          "productId": 8,
+          "productName": "Dưa hấu Long An",
+          "variantName": "Trái cỡ 2 kg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Vampire_watermelon.jpg",
+          "price": 48000,
+          "quantity": 3
+        },
+        {
+          "variantId": 9,
+          "productId": 6,
+          "productName": "Dừa xiêm Bến Tre",
+          "variantName": "Một quả gọt vỏ",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Coconuts_-_single_and_cracked_open.jpg/960px-Coconuts_-_single_and_cracked_open.jpg",
+          "price": 24000,
+          "quantity": 3
+        }
+      ],
+      "subtotal": 216000,
+      "shippingFee": 21000,
+      "discount": 0,
+      "total": 237000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "UNPAID",
+      "status": "CONFIRMED",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Đặng Gia Hân",
+        "phone": "0869351742",
+        "addressLine": "25 Láng Hạ",
+        "ward": "Phường Giảng Võ",
+        "province": "Hà Nội"
+      },
+      "note": "",
+      "deliveryStaffId": null,
+      "createdAt": "2026-11-04T04:40:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-04T04:40:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-04T05:10:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "code": "VF100018",
+      "customerId": 19,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 5,
+          "productId": 3,
+          "productName": "Bưởi Năm Roi Vĩnh Long",
+          "variantName": "Cặp hai quả",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Pomelo_fruit.jpg/960px-Pomelo_fruit.jpg",
+          "price": 99000,
+          "quantity": 3
+        },
+        {
+          "variantId": 18,
+          "productId": 12,
+          "productName": "Thanh long ruột trắng Bình Thuận",
+          "variantName": "Túi 1 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Dragon_fruit_.jpg/960px-Dragon_fruit_.jpg",
+          "price": 28000,
+          "quantity": 2
+        }
+      ],
+      "subtotal": 353000,
+      "shippingFee": 15000,
+      "discount": 0,
+      "total": 368000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "UNPAID",
+      "status": "CONFIRMED",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Huỳnh Khánh Vy",
+        "phone": "0963527481",
+        "addressLine": "72 Nguyễn Chí Thanh",
+        "ward": "Phường Láng",
+        "province": "Hà Nội"
+      },
+      "note": "",
+      "deliveryStaffId": null,
+      "createdAt": "2026-11-06T01:40:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-06T01:40:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-06T02:10:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "code": "VF100019",
+      "customerId": 8,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 8,
+          "productId": 5,
+          "productName": "Ổi nữ hoàng",
+          "variantName": "Túi 1 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Goiaba_vermelha.jpg/960px-Goiaba_vermelha.jpg",
+          "price": 35000,
+          "quantity": 3
+        },
+        {
+          "variantId": 1,
+          "productId": 1,
+          "productName": "Xoài cát Hòa Lộc",
+          "variantName": "Túi 1 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mangos_-_single_and_halved.jpg/960px-Mangos_-_single_and_halved.jpg",
+          "price": 59000,
+          "quantity": 3
+        }
+      ],
+      "subtotal": 282000,
+      "shippingFee": 18000,
+      "discount": 0,
+      "total": 300000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "UNPAID",
+      "status": "CONFIRMED",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Nguyễn Thu Mai",
+        "phone": "0903247816",
+        "addressLine": "41 Nguyễn Trãi",
+        "ward": "Phường Bến Thành",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": null,
+      "createdAt": "2026-11-05T21:46:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-05T21:46:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-05T22:16:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "code": "VF100020",
+      "customerId": 19,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 19,
+          "productId": 12,
+          "productName": "Thanh long ruột trắng Bình Thuận",
+          "variantName": "Thùng 5 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Dragon_fruit_.jpg/960px-Dragon_fruit_.jpg",
+          "price": 125000,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 125000,
+      "shippingFee": 15000,
+      "discount": 0,
+      "total": 140000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "UNPAID",
+      "status": "PREPARING",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Huỳnh Khánh Vy",
+        "phone": "0963527481",
+        "addressLine": "72 Nguyễn Chí Thanh",
+        "ward": "Phường Láng",
+        "province": "Hà Nội"
+      },
+      "note": "",
+      "deliveryStaffId": null,
+      "createdAt": "2026-11-06T00:00:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-06T00:00:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-06T00:30:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-11-06T01:00:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "code": "VF100021",
+      "customerId": 8,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 1,
+          "productId": 1,
+          "productName": "Xoài cát Hòa Lộc",
+          "variantName": "Túi 1 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mangos_-_single_and_halved.jpg/960px-Mangos_-_single_and_halved.jpg",
+          "price": 59000,
+          "quantity": 1
+        },
+        {
+          "variantId": 19,
+          "productId": 12,
+          "productName": "Thanh long ruột trắng Bình Thuận",
+          "variantName": "Thùng 5 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Dragon_fruit_.jpg/960px-Dragon_fruit_.jpg",
+          "price": 125000,
+          "quantity": 3
+        }
+      ],
+      "subtotal": 434000,
+      "shippingFee": 18000,
+      "discount": 0,
+      "total": 452000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "UNPAID",
+      "status": "PREPARING",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Nguyễn Thu Mai",
+        "phone": "0903247816",
+        "addressLine": "41 Nguyễn Trãi",
+        "ward": "Phường Bến Thành",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": null,
+      "createdAt": "2026-11-05T23:21:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-05T23:21:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-05T23:51:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-11-06T00:21:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "code": "VF100022",
+      "customerId": 11,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 4,
+          "productId": 3,
+          "productName": "Bưởi Năm Roi Vĩnh Long",
+          "variantName": "Quả cỡ 1,2 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Pomelo_fruit.jpg/960px-Pomelo_fruit.jpg",
+          "price": 52000,
+          "quantity": 1
+        },
+        {
+          "variantId": 5,
+          "productId": 3,
+          "productName": "Bưởi Năm Roi Vĩnh Long",
+          "variantName": "Cặp hai quả",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Pomelo_fruit.jpg/960px-Pomelo_fruit.jpg",
+          "price": 99000,
+          "quantity": 2
+        }
+      ],
+      "subtotal": 250000,
+      "shippingFee": 15000,
+      "discount": 0,
+      "total": 265000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "UNPAID",
+      "status": "READY_FOR_DELIVERY",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Phạm Ngọc Anh",
+        "phone": "0917534862",
+        "addressLine": "86 Bà Triệu",
+        "ward": "Phường Hai Bà Trưng",
+        "province": "Hà Nội"
+      },
+      "note": "",
+      "deliveryStaffId": null,
+      "createdAt": "2026-11-06T01:40:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-06T01:40:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-06T02:10:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-11-06T02:40:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-11-06T03:10:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "code": "VF100023",
+      "customerId": 19,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 6,
+          "productId": 4,
+          "productName": "Cam sành Vĩnh Long",
+          "variantName": "Túi 1 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/960px-Oranges_-_whole-halved-segment.jpg",
+          "price": 32000,
+          "quantity": 2
+        },
+        {
+          "variantId": 18,
+          "productId": 12,
+          "productName": "Thanh long ruột trắng Bình Thuận",
+          "variantName": "Túi 1 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Dragon_fruit_.jpg/960px-Dragon_fruit_.jpg",
+          "price": 28000,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 92000,
+      "shippingFee": 15000,
+      "discount": 0,
+      "total": 107000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "UNPAID",
+      "status": "READY_FOR_DELIVERY",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Huỳnh Khánh Vy",
+        "phone": "0963527481",
+        "addressLine": "72 Nguyễn Chí Thanh",
+        "ward": "Phường Láng",
+        "province": "Hà Nội"
+      },
+      "note": "",
+      "deliveryStaffId": null,
+      "createdAt": "2026-11-06T01:01:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-06T01:01:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-06T01:31:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-11-06T02:01:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-11-06T02:31:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "code": "VF100024",
+      "customerId": 14,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 18,
+          "productId": 12,
+          "productName": "Thanh long ruột trắng Bình Thuận",
+          "variantName": "Túi 1 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Dragon_fruit_.jpg/960px-Dragon_fruit_.jpg",
+          "price": 28000,
+          "quantity": 2
+        },
+        {
+          "variantId": 1,
+          "productId": 1,
+          "productName": "Xoài cát Hòa Lộc",
+          "variantName": "Túi 1 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mangos_-_single_and_halved.jpg/960px-Mangos_-_single_and_halved.jpg",
+          "price": 59000,
+          "quantity": 2
+        }
+      ],
+      "subtotal": 174000,
+      "shippingFee": 12000,
+      "discount": 0,
+      "total": 186000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "UNPAID",
+      "status": "OUT_FOR_DELIVERY",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Hoàng Nhật Minh",
+        "phone": "0908126437",
+        "addressLine": "29 Trần Hưng Đạo",
+        "ward": "Phường Cầu Ông Lãnh",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": 7,
+      "createdAt": "2026-11-06T00:00:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-06T00:00:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-06T00:30:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-11-06T01:00:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-11-06T01:30:47.011Z"
+        },
+        {
+          "status": "OUT_FOR_DELIVERY",
+          "at": "2026-11-06T02:00:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "code": "VF100025",
+      "customerId": 8,
+      "shopId": 1,
+      "items": [
+        {
+          "variantId": 18,
+          "productId": 12,
+          "productName": "Thanh long ruột trắng Bình Thuận",
+          "variantName": "Túi 1 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Dragon_fruit_.jpg/960px-Dragon_fruit_.jpg",
+          "price": 28000,
+          "quantity": 3
+        }
+      ],
+      "subtotal": 84000,
+      "shippingFee": 18000,
+      "discount": 0,
+      "total": 102000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "UNPAID",
+      "status": "OUT_FOR_DELIVERY",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Nguyễn Thu Mai",
+        "phone": "0903247816",
+        "addressLine": "41 Nguyễn Trãi",
+        "ward": "Phường Bến Thành",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": 5,
+      "createdAt": "2026-11-05T23:21:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-05T23:21:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-05T23:51:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-11-06T00:21:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-11-06T00:51:47.011Z"
+        },
+        {
+          "status": "OUT_FOR_DELIVERY",
+          "at": "2026-11-06T01:21:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "code": "VF100026",
+      "customerId": 9,
+      "shopId": 2,
+      "items": [
+        {
+          "variantId": 22,
+          "productId": 13,
+          "productName": "Táo Gala New Zealand",
+          "variantName": "Thùng 3 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/960px-Red_Apple.jpg",
+          "price": 339000,
+          "quantity": 1
+        },
+        {
+          "variantId": 25,
+          "productId": 15,
+          "productName": "Việt quất Peru",
+          "variantName": "Hộp 125 g",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Dish_of_blueberries.jpg/960px-Dish_of_blueberries.jpg",
+          "price": 85000,
+          "quantity": 2
+        }
+      ],
+      "subtotal": 509000,
+      "shippingFee": 30000,
+      "discount": 0,
+      "total": 539000,
+      "couponCode": "",
+      "paymentMethod": "BANK_TRANSFER",
+      "paymentStatus": "PAID",
+      "status": "COMPLETED",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Trần Quốc Bảo",
+        "phone": "0987253641",
+        "addressLine": "18 Trần Hưng Đạo",
+        "ward": "Phường Cửa Nam",
+        "province": "Hà Nội"
+      },
+      "note": "",
+      "deliveryStaffId": 6,
+      "createdAt": "2026-11-02T04:40:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-02T04:40:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-02T05:10:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-11-02T05:40:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-11-02T06:10:47.011Z"
+        },
+        {
+          "status": "OUT_FOR_DELIVERY",
+          "at": "2026-11-02T06:40:47.011Z"
+        },
+        {
+          "status": "COMPLETED",
+          "at": "2026-11-02T07:10:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "code": "VF100027",
+      "customerId": 19,
+      "shopId": 2,
+      "items": [
+        {
+          "variantId": 29,
+          "productId": 17,
+          "productName": "Nho xanh Ninh Thuận",
+          "variantName": "Hộp 1 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Grapes%2C_Dry_Creek_Valley-7705.jpg/960px-Grapes%2C_Dry_Creek_Valley-7705.jpg",
+          "price": 109000,
+          "quantity": 3
+        }
+      ],
+      "subtotal": 327000,
+      "shippingFee": 22000,
+      "discount": 0,
+      "total": 349000,
+      "couponCode": "",
+      "paymentMethod": "BANK_TRANSFER",
+      "paymentStatus": "PAID",
+      "status": "COMPLETED",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Huỳnh Khánh Vy",
+        "phone": "0963527481",
+        "addressLine": "72 Nguyễn Chí Thanh",
+        "ward": "Phường Láng",
+        "province": "Hà Nội"
+      },
+      "note": "",
+      "deliveryStaffId": 7,
+      "createdAt": "2026-11-01T10:10:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-01T10:10:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-01T10:40:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-11-01T11:10:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-11-01T11:40:47.011Z"
+        },
+        {
+          "status": "OUT_FOR_DELIVERY",
+          "at": "2026-11-01T12:10:47.011Z"
+        },
+        {
+          "status": "COMPLETED",
+          "at": "2026-11-01T12:40:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "code": "VF100028",
+      "customerId": 17,
+      "shopId": 2,
+      "items": [
+        {
+          "variantId": 26,
+          "productId": 16,
+          "productName": "Cherry đỏ Úc",
+          "variantName": "Hộp 500 g",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Bing_Cherries_%28USDA_ARS%29.jpg/960px-Bing_Cherries_%28USDA_ARS%29.jpg",
+          "price": 219000,
+          "quantity": 3
+        }
+      ],
+      "subtotal": 657000,
+      "shippingFee": 30000,
+      "discount": 0,
+      "total": 687000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "PAID",
+      "status": "COMPLETED",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Ngô Phương Thảo",
+        "phone": "0981635724",
+        "addressLine": "45 Kim Mã",
+        "ward": "Phường Giảng Võ",
+        "province": "Hà Nội"
+      },
+      "note": "",
+      "deliveryStaffId": 5,
+      "createdAt": "2026-10-31T15:40:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-10-31T15:40:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-10-31T16:10:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-10-31T16:40:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-10-31T17:10:47.011Z"
+        },
+        {
+          "status": "OUT_FOR_DELIVERY",
+          "at": "2026-10-31T17:40:47.011Z"
+        },
+        {
+          "status": "COMPLETED",
+          "at": "2026-10-31T18:10:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "code": "VF100029",
+      "customerId": 13,
+      "shopId": 2,
+      "items": [
+        {
+          "variantId": 24,
+          "productId": 14,
+          "productName": "Kiwi xanh New Zealand",
+          "variantName": "Hộp tuyển chọn 1 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg/960px-Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg",
+          "price": 149000,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 149000,
+      "shippingFee": 30000,
+      "discount": 0,
+      "total": 179000,
+      "couponCode": "",
+      "paymentMethod": "BANK_TRANSFER",
+      "paymentStatus": "PAID",
+      "status": "COMPLETED",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Đặng Gia Hân",
+        "phone": "0869351742",
+        "addressLine": "25 Láng Hạ",
+        "ward": "Phường Giảng Võ",
+        "province": "Hà Nội"
+      },
+      "note": "",
+      "deliveryStaffId": 6,
+      "createdAt": "2026-10-30T21:10:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-10-30T21:10:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-10-30T21:40:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-10-30T22:10:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-10-30T22:40:47.011Z"
+        },
+        {
+          "status": "OUT_FOR_DELIVERY",
+          "at": "2026-10-30T23:10:47.011Z"
+        },
+        {
+          "status": "COMPLETED",
+          "at": "2026-10-30T23:40:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "code": "VF100030",
+      "customerId": 18,
+      "shopId": 2,
+      "items": [
+        {
+          "variantId": 28,
+          "productId": 17,
+          "productName": "Nho xanh Ninh Thuận",
+          "variantName": "Khay 500 g",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Grapes%2C_Dry_Creek_Valley-7705.jpg/960px-Grapes%2C_Dry_Creek_Valley-7705.jpg",
+          "price": 59000,
+          "quantity": 2
+        }
+      ],
+      "subtotal": 118000,
+      "shippingFee": 18000,
+      "discount": 0,
+      "total": 136000,
+      "couponCode": "",
+      "paymentMethod": "BANK_TRANSFER",
+      "paymentStatus": "PAID",
+      "status": "COMPLETED",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Phan Đức Long",
+        "phone": "0876452139",
+        "addressLine": "37 Nguyễn Thị Minh Khai",
+        "ward": "Phường Sài Gòn",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": 7,
+      "createdAt": "2026-11-03T16:40:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-03T16:40:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-03T17:10:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-11-03T17:40:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-11-03T18:10:47.011Z"
+        },
+        {
+          "status": "OUT_FOR_DELIVERY",
+          "at": "2026-11-03T18:40:47.011Z"
+        },
+        {
+          "status": "COMPLETED",
+          "at": "2026-11-03T19:10:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "code": "VF100031",
+      "customerId": 13,
+      "shopId": 2,
+      "items": [
+        {
+          "variantId": 29,
+          "productId": 17,
+          "productName": "Nho xanh Ninh Thuận",
+          "variantName": "Hộp 1 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Grapes%2C_Dry_Creek_Valley-7705.jpg/960px-Grapes%2C_Dry_Creek_Valley-7705.jpg",
+          "price": 109000,
+          "quantity": 3
+        }
+      ],
+      "subtotal": 327000,
+      "shippingFee": 30000,
+      "discount": 0,
+      "total": 357000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "UNPAID",
+      "status": "CANCELLED",
+      "cancelReason": "Khách hàng đổi ý",
+      "address": {
+        "receiverName": "Đặng Gia Hân",
+        "phone": "0869351742",
+        "addressLine": "25 Láng Hạ",
+        "ward": "Phường Giảng Võ",
+        "province": "Hà Nội"
+      },
+      "note": "",
+      "deliveryStaffId": null,
+      "createdAt": "2026-10-24T04:40:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-10-24T04:40:47.011Z"
+        },
+        {
+          "status": "CANCELLED",
+          "at": "2026-10-24T05:10:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "code": "VF100032",
+      "customerId": 17,
+      "shopId": 2,
+      "items": [
+        {
+          "variantId": 32,
+          "productId": 19,
+          "productName": "Lựu đỏ Peru",
+          "variantName": "Hộp quà bốn quả",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Pomegranate_fruit_-_whole_and_piece_with_arils.jpg/960px-Pomegranate_fruit_-_whole_and_piece_with_arils.jpg",
+          "price": 269000,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 269000,
+      "shippingFee": 30000,
+      "discount": 0,
+      "total": 299000,
+      "couponCode": "",
+      "paymentMethod": "BANK_TRANSFER",
+      "paymentStatus": "PAID",
+      "status": "PENDING",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Ngô Phương Thảo",
+        "phone": "0981635724",
+        "addressLine": "45 Kim Mã",
+        "ward": "Phường Giảng Võ",
+        "province": "Hà Nội"
+      },
+      "note": "",
+      "deliveryStaffId": null,
+      "createdAt": "2026-11-06T04:05:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-06T04:05:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "code": "VF100033",
+      "customerId": 11,
+      "shopId": 2,
+      "items": [
+        {
+          "variantId": 20,
+          "productId": 13,
+          "productName": "Táo Gala New Zealand",
+          "variantName": "Khay 4 quả",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/960px-Red_Apple.jpg",
+          "price": 89000,
+          "quantity": 3
+        },
+        {
+          "variantId": 25,
+          "productId": 15,
+          "productName": "Việt quất Peru",
+          "variantName": "Hộp 125 g",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Dish_of_blueberries.jpg/960px-Dish_of_blueberries.jpg",
+          "price": 85000,
+          "quantity": 3
+        }
+      ],
+      "subtotal": 522000,
+      "shippingFee": 22000,
+      "discount": 0,
+      "total": 544000,
+      "couponCode": "",
+      "paymentMethod": "BANK_TRANSFER",
+      "paymentStatus": "PAID",
+      "status": "PENDING",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Phạm Ngọc Anh",
+        "phone": "0917534862",
+        "addressLine": "86 Bà Triệu",
+        "ward": "Phường Hai Bà Trưng",
+        "province": "Hà Nội"
+      },
+      "note": "",
+      "deliveryStaffId": null,
+      "createdAt": "2026-11-06T03:22:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-06T03:22:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "code": "VF100034",
+      "customerId": 15,
+      "shopId": 2,
+      "items": [
+        {
+          "variantId": 22,
+          "productId": 13,
+          "productName": "Táo Gala New Zealand",
+          "variantName": "Thùng 3 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/960px-Red_Apple.jpg",
+          "price": 339000,
+          "quantity": 3
+        }
+      ],
+      "subtotal": 1017000,
+      "shippingFee": 22000,
+      "discount": 0,
+      "total": 1039000,
+      "couponCode": "",
+      "paymentMethod": "COD",
+      "paymentStatus": "UNPAID",
+      "status": "CONFIRMED",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Bùi Thanh Trúc",
+        "phone": "0937642815",
+        "addressLine": "12 Nguyễn Thái Học",
+        "ward": "Phường Ba Đình",
+        "province": "Hà Nội"
+      },
+      "note": "",
+      "deliveryStaffId": null,
+      "createdAt": "2026-11-06T01:40:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-06T01:40:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-06T02:10:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "code": "VF100035",
+      "customerId": 19,
+      "shopId": 2,
+      "items": [
+        {
+          "variantId": 22,
+          "productId": 13,
+          "productName": "Táo Gala New Zealand",
+          "variantName": "Thùng 3 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/960px-Red_Apple.jpg",
+          "price": 339000,
+          "quantity": 3
+        }
+      ],
+      "subtotal": 1017000,
+      "shippingFee": 22000,
+      "discount": 0,
+      "total": 1039000,
+      "couponCode": "",
+      "paymentMethod": "BANK_TRANSFER",
+      "paymentStatus": "PAID",
+      "status": "PREPARING",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Huỳnh Khánh Vy",
+        "phone": "0963527481",
+        "addressLine": "72 Nguyễn Chí Thanh",
+        "ward": "Phường Láng",
+        "province": "Hà Nội"
+      },
+      "note": "",
+      "deliveryStaffId": null,
+      "createdAt": "2026-11-06T00:00:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-06T00:00:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-06T00:30:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-11-06T01:00:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "code": "VF100036",
+      "customerId": 8,
+      "shopId": 2,
+      "items": [
+        {
+          "variantId": 20,
+          "productId": 13,
+          "productName": "Táo Gala New Zealand",
+          "variantName": "Khay 4 quả",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/960px-Red_Apple.jpg",
+          "price": 89000,
+          "quantity": 3
+        },
+        {
+          "variantId": 21,
+          "productId": 13,
+          "productName": "Táo Gala New Zealand",
+          "variantName": "Hộp 1 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/960px-Red_Apple.jpg",
+          "price": 119000,
+          "quantity": 3
+        }
+      ],
+      "subtotal": 624000,
+      "shippingFee": 26000,
+      "discount": 0,
+      "total": 650000,
+      "couponCode": "",
+      "paymentMethod": "BANK_TRANSFER",
+      "paymentStatus": "PAID",
+      "status": "READY_FOR_DELIVERY",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Nguyễn Thu Mai",
+        "phone": "0903247816",
+        "addressLine": "41 Nguyễn Trãi",
+        "ward": "Phường Bến Thành",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": null,
+      "createdAt": "2026-11-06T01:40:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-06T01:40:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-06T02:10:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-11-06T02:40:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-11-06T03:10:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "code": "VF100037",
+      "customerId": 14,
+      "shopId": 2,
+      "items": [
+        {
+          "variantId": 20,
+          "productId": 13,
+          "productName": "Táo Gala New Zealand",
+          "variantName": "Khay 4 quả",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/960px-Red_Apple.jpg",
+          "price": 89000,
+          "quantity": 2
+        },
+        {
+          "variantId": 23,
+          "productId": 14,
+          "productName": "Kiwi xanh New Zealand",
+          "variantName": "Hộp 500 g",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg/960px-Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg",
+          "price": 79000,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 257000,
+      "shippingFee": 18000,
+      "discount": 0,
+      "total": 275000,
+      "couponCode": "",
+      "paymentMethod": "BANK_TRANSFER",
+      "paymentStatus": "PAID",
+      "status": "READY_FOR_DELIVERY",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Hoàng Nhật Minh",
+        "phone": "0908126437",
+        "addressLine": "29 Trần Hưng Đạo",
+        "ward": "Phường Cầu Ông Lãnh",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": null,
+      "createdAt": "2026-11-06T01:01:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-06T01:01:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-06T01:31:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-11-06T02:01:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-11-06T02:31:47.011Z"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "code": "VF100038",
+      "customerId": 8,
+      "shopId": 2,
+      "items": [
+        {
+          "variantId": 21,
+          "productId": 13,
+          "productName": "Táo Gala New Zealand",
+          "variantName": "Hộp 1 kg",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/960px-Red_Apple.jpg",
+          "price": 119000,
+          "quantity": 3
+        },
+        {
+          "variantId": 32,
+          "productId": 19,
+          "productName": "Lựu đỏ Peru",
+          "variantName": "Hộp quà bốn quả",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Pomegranate_fruit_-_whole_and_piece_with_arils.jpg/960px-Pomegranate_fruit_-_whole_and_piece_with_arils.jpg",
+          "price": 269000,
+          "quantity": 2
+        }
+      ],
+      "subtotal": 895000,
+      "shippingFee": 26000,
+      "discount": 0,
+      "total": 921000,
+      "couponCode": "",
+      "paymentMethod": "BANK_TRANSFER",
+      "paymentStatus": "PAID",
+      "status": "OUT_FOR_DELIVERY",
+      "cancelReason": "",
+      "address": {
+        "receiverName": "Nguyễn Thu Mai",
+        "phone": "0903247816",
+        "addressLine": "41 Nguyễn Trãi",
+        "ward": "Phường Bến Thành",
+        "province": "TP Hồ Chí Minh"
+      },
+      "note": "",
+      "deliveryStaffId": 6,
+      "createdAt": "2026-11-06T00:00:47.011Z",
+      "history": [
+        {
+          "status": "PENDING",
+          "at": "2026-11-06T00:00:47.011Z"
+        },
+        {
+          "status": "CONFIRMED",
+          "at": "2026-11-06T00:30:47.011Z"
+        },
+        {
+          "status": "PREPARING",
+          "at": "2026-11-06T01:00:47.011Z"
+        },
+        {
+          "status": "READY_FOR_DELIVERY",
+          "at": "2026-11-06T01:30:47.011Z"
+        },
+        {
+          "status": "OUT_FOR_DELIVERY",
+          "at": "2026-11-06T02:00:47.011Z"
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "userId": 16,
+      "productId": 12,
+      "orderId": 1,
+      "rating": 5,
+      "content": "Hàng tươi, giao đúng hẹn. Sẽ đặt lại cho gia đình.",
+      "status": "APPROVED",
+      "createdAt": "2026-11-02T07:10:47.011Z"
+    },
+    {
+      "id": 2,
+      "userId": 18,
+      "productId": 12,
+      "orderId": 2,
+      "rating": 5,
+      "content": "Hàng tươi, giao đúng hẹn. Sẽ đặt lại cho gia đình.",
+      "status": "APPROVED",
+      "createdAt": "2026-11-01T21:20:47.011Z"
+    },
+    {
+      "id": 3,
+      "userId": 12,
+      "productId": 2,
+      "orderId": 3,
+      "rating": 4,
+      "content": "Đóng gói cẩn thận, đúng quy cách đã chọn.",
+      "status": "APPROVED",
+      "createdAt": "2026-11-01T11:30:47.011Z"
+    },
+    {
+      "id": 4,
+      "userId": 14,
+      "productId": 3,
+      "orderId": 4,
+      "rating": 5,
+      "content": "Hàng tươi, giao đúng hẹn. Sẽ đặt lại cho gia đình.",
+      "status": "APPROVED",
+      "createdAt": "2026-11-01T01:40:47.011Z"
+    },
+    {
+      "id": 5,
+      "userId": 8,
+      "productId": 3,
+      "orderId": 5,
+      "rating": 5,
+      "content": "Hàng tươi, giao đúng hẹn. Sẽ đặt lại cho gia đình.",
+      "status": "APPROVED",
+      "createdAt": "2026-10-30T20:10:47.011Z"
+    },
+    {
+      "id": 6,
+      "userId": 13,
+      "productId": 3,
+      "orderId": 6,
+      "rating": 4,
+      "content": "Đóng gói cẩn thận, đúng quy cách đã chọn.",
+      "status": "APPROVED",
+      "createdAt": "2026-10-30T10:20:47.011Z"
+    },
+    {
+      "id": 7,
+      "userId": 10,
+      "productId": 12,
+      "orderId": 7,
+      "rating": 3,
+      "content": "Có vài quả mềm hơn dự kiến, cửa hàng đã hướng dẫn bảo quản.",
+      "status": "APPROVED",
+      "createdAt": "2026-10-30T00:30:47.011Z"
+    },
+    {
+      "id": 8,
+      "userId": 8,
+      "productId": 3,
+      "orderId": 8,
+      "rating": 5,
+      "content": "Hàng tươi, giao đúng hẹn. Sẽ đặt lại cho gia đình.",
+      "status": "PENDING",
+      "createdAt": "2026-10-29T14:40:47.011Z"
+    },
+    {
+      "id": 9,
+      "userId": 10,
+      "productId": 12,
+      "orderId": 9,
+      "rating": 4,
+      "content": "Đóng gói cẩn thận, đúng quy cách đã chọn.",
+      "status": "APPROVED",
+      "createdAt": "2026-11-03T19:10:47.011Z"
+    },
+    {
+      "id": 10,
+      "userId": 14,
+      "productId": 1,
+      "orderId": 10,
+      "rating": 5,
+      "content": "Hàng tươi, giao đúng hẹn. Sẽ đặt lại cho gia đình.",
+      "status": "APPROVED",
+      "createdAt": "2026-11-04T13:10:47.011Z"
+    },
+    {
+      "id": 11,
+      "userId": 9,
+      "productId": 13,
+      "orderId": 26,
+      "rating": 5,
+      "content": "Hàng tươi, giao đúng hẹn. Sẽ đặt lại cho gia đình.",
+      "status": "APPROVED",
+      "createdAt": "2026-11-02T07:10:47.011Z"
+    },
+    {
+      "id": 12,
+      "userId": 19,
+      "productId": 17,
+      "orderId": 27,
+      "rating": 4,
+      "content": "Đóng gói cẩn thận, đúng quy cách đã chọn.",
+      "status": "APPROVED",
+      "createdAt": "2026-11-01T12:40:47.011Z"
+    },
+    {
+      "id": 13,
+      "userId": 17,
+      "productId": 16,
+      "orderId": 28,
+      "rating": 3,
+      "content": "Có vài quả mềm hơn dự kiến, cửa hàng đã hướng dẫn bảo quản.",
+      "status": "APPROVED",
+      "createdAt": "2026-10-31T18:10:47.011Z"
+    },
+    {
+      "id": 14,
+      "userId": 13,
+      "productId": 14,
+      "orderId": 29,
+      "rating": 5,
+      "content": "Hàng tươi, giao đúng hẹn. Sẽ đặt lại cho gia đình.",
+      "status": "APPROVED",
+      "createdAt": "2026-10-30T23:40:47.011Z"
+    },
+    {
+      "id": 15,
+      "userId": 18,
+      "productId": 17,
+      "orderId": 30,
+      "rating": 4,
+      "content": "Đóng gói cẩn thận, đúng quy cách đã chọn.",
+      "status": "APPROVED",
+      "createdAt": "2026-11-03T19:10:47.011Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1,
+      "userId": 16,
+      "title": "Đơn hàng đã giao thành công",
+      "content": "Cập nhật trạng thái đơn VF100001. Bạn có thể xem chi tiết tại lịch sử đơn hàng.",
+      "link": "/account/orders/1",
+      "read": true,
+      "createdAt": "2026-11-02T07:10:47.011Z"
+    },
+    {
+      "id": 2,
+      "userId": 18,
+      "title": "Đơn hàng đã giao thành công",
+      "content": "Cập nhật trạng thái đơn VF100002. Bạn có thể xem chi tiết tại lịch sử đơn hàng.",
+      "link": "/account/orders/2",
+      "read": true,
+      "createdAt": "2026-11-01T21:20:47.011Z"
+    },
+    {
+      "id": 3,
+      "userId": 12,
+      "title": "Đơn hàng đã giao thành công",
+      "content": "Cập nhật trạng thái đơn VF100003. Bạn có thể xem chi tiết tại lịch sử đơn hàng.",
+      "link": "/account/orders/3",
+      "read": true,
+      "createdAt": "2026-11-01T11:30:47.011Z"
+    },
+    {
+      "id": 4,
+      "userId": 14,
+      "title": "Đơn hàng đã giao thành công",
+      "content": "Cập nhật trạng thái đơn VF100004. Bạn có thể xem chi tiết tại lịch sử đơn hàng.",
+      "link": "/account/orders/4",
+      "read": false,
+      "createdAt": "2026-11-01T01:40:47.011Z"
+    },
+    {
+      "id": 5,
+      "userId": 8,
+      "title": "Đơn hàng đã giao thành công",
+      "content": "Cập nhật trạng thái đơn VF100005. Bạn có thể xem chi tiết tại lịch sử đơn hàng.",
+      "link": "/account/orders/5",
+      "read": true,
+      "createdAt": "2026-10-30T20:10:47.011Z"
+    },
+    {
+      "id": 6,
+      "userId": 13,
+      "title": "Đơn hàng đã giao thành công",
+      "content": "Cập nhật trạng thái đơn VF100006. Bạn có thể xem chi tiết tại lịch sử đơn hàng.",
+      "link": "/account/orders/6",
+      "read": true,
+      "createdAt": "2026-10-30T10:20:47.011Z"
+    },
+    {
+      "id": 7,
+      "userId": 10,
+      "title": "Đơn hàng đã giao thành công",
+      "content": "Cập nhật trạng thái đơn VF100007. Bạn có thể xem chi tiết tại lịch sử đơn hàng.",
+      "link": "/account/orders/7",
+      "read": true,
+      "createdAt": "2026-10-30T00:30:47.011Z"
+    },
+    {
+      "id": 8,
+      "userId": 8,
+      "title": "Đơn hàng đã giao thành công",
+      "content": "Cập nhật trạng thái đơn VF100008. Bạn có thể xem chi tiết tại lịch sử đơn hàng.",
+      "link": "/account/orders/8",
+      "read": false,
+      "createdAt": "2026-10-29T14:40:47.011Z"
+    },
+    {
+      "id": 9,
+      "userId": 10,
+      "title": "Đơn hàng đã giao thành công",
+      "content": "Cập nhật trạng thái đơn VF100009. Bạn có thể xem chi tiết tại lịch sử đơn hàng.",
+      "link": "/account/orders/9",
+      "read": true,
+      "createdAt": "2026-11-03T19:10:47.011Z"
+    },
+    {
+      "id": 10,
+      "userId": 14,
+      "title": "Đơn hàng đã giao thành công",
+      "content": "Cập nhật trạng thái đơn VF100010. Bạn có thể xem chi tiết tại lịch sử đơn hàng.",
+      "link": "/account/orders/10",
+      "read": true,
+      "createdAt": "2026-11-04T13:10:47.011Z"
+    },
+    {
+      "id": 11,
+      "userId": 14,
+      "title": "Đơn hàng đã hủy",
+      "content": "Cập nhật trạng thái đơn VF100011. Bạn có thể xem chi tiết tại lịch sử đơn hàng.",
+      "link": "/account/orders/11",
+      "read": true,
+      "createdAt": "2026-10-24T05:10:47.011Z"
+    },
+    {
+      "id": 12,
+      "userId": 18,
+      "title": "Đơn hàng đã hủy",
+      "content": "Cập nhật trạng thái đơn VF100012. Bạn có thể xem chi tiết tại lịch sử đơn hàng.",
+      "link": "/account/orders/12",
+      "read": false,
+      "createdAt": "2026-10-24T02:10:47.011Z"
+    },
+    {
+      "id": 13,
+      "userId": 2,
+      "title": "Có đơn hàng mới",
+      "content": "Đơn VF100013 đang chờ cửa hàng xác nhận.",
+      "link": "/seller/orders/13",
+      "read": false,
+      "createdAt": "2026-11-06T04:05:47.011Z"
+    },
+    {
+      "id": 14,
+      "userId": 2,
+      "title": "Có đơn hàng mới",
+      "content": "Đơn VF100014 đang chờ cửa hàng xác nhận.",
+      "link": "/seller/orders/14",
+      "read": false,
+      "createdAt": "2026-11-06T03:22:47.011Z"
+    },
+    {
+      "id": 15,
+      "userId": 2,
+      "title": "Có đơn hàng mới",
+      "content": "Đơn VF100015 đang chờ cửa hàng xác nhận.",
+      "link": "/seller/orders/15",
+      "read": false,
+      "createdAt": "2026-11-05T22:21:47.011Z"
+    },
+    {
+      "id": 16,
+      "userId": 2,
+      "title": "Có đơn hàng mới",
+      "content": "Đơn VF100016 đang chờ cửa hàng xác nhận.",
+      "link": "/seller/orders/16",
+      "read": false,
+      "createdAt": "2026-11-05T21:38:47.011Z"
+    },
+    {
+      "id": 17,
+      "userId": 9,
+      "title": "Đơn hàng đã giao thành công",
+      "content": "Cập nhật trạng thái đơn VF100026. Bạn có thể xem chi tiết tại lịch sử đơn hàng.",
+      "link": "/account/orders/26",
+      "read": true,
+      "createdAt": "2026-11-02T07:10:47.011Z"
+    },
+    {
+      "id": 18,
+      "userId": 19,
+      "title": "Đơn hàng đã giao thành công",
+      "content": "Cập nhật trạng thái đơn VF100027. Bạn có thể xem chi tiết tại lịch sử đơn hàng.",
+      "link": "/account/orders/27",
+      "read": true,
+      "createdAt": "2026-11-01T12:40:47.011Z"
+    },
+    {
+      "id": 19,
+      "userId": 17,
+      "title": "Đơn hàng đã giao thành công",
+      "content": "Cập nhật trạng thái đơn VF100028. Bạn có thể xem chi tiết tại lịch sử đơn hàng.",
+      "link": "/account/orders/28",
+      "read": false,
+      "createdAt": "2026-10-31T18:10:47.011Z"
+    },
+    {
+      "id": 20,
+      "userId": 13,
+      "title": "Đơn hàng đã giao thành công",
+      "content": "Cập nhật trạng thái đơn VF100029. Bạn có thể xem chi tiết tại lịch sử đơn hàng.",
+      "link": "/account/orders/29",
+      "read": true,
+      "createdAt": "2026-10-30T23:40:47.011Z"
+    },
+    {
+      "id": 21,
+      "userId": 18,
+      "title": "Đơn hàng đã giao thành công",
+      "content": "Cập nhật trạng thái đơn VF100030. Bạn có thể xem chi tiết tại lịch sử đơn hàng.",
+      "link": "/account/orders/30",
+      "read": true,
+      "createdAt": "2026-11-03T19:10:47.011Z"
+    },
+    {
+      "id": 22,
+      "userId": 13,
+      "title": "Đơn hàng đã hủy",
+      "content": "Cập nhật trạng thái đơn VF100031. Bạn có thể xem chi tiết tại lịch sử đơn hàng.",
+      "link": "/account/orders/31",
+      "read": true,
+      "createdAt": "2026-10-24T05:10:47.011Z"
+    },
+    {
+      "id": 23,
+      "userId": 3,
+      "title": "Có đơn hàng mới",
+      "content": "Đơn VF100032 đang chờ cửa hàng xác nhận.",
+      "link": "/seller/orders/32",
+      "read": false,
+      "createdAt": "2026-11-06T04:05:47.011Z"
+    },
+    {
+      "id": 24,
+      "userId": 3,
+      "title": "Có đơn hàng mới",
+      "content": "Đơn VF100033 đang chờ cửa hàng xác nhận.",
+      "link": "/seller/orders/33",
+      "read": false,
+      "createdAt": "2026-11-06T03:22:47.011Z"
+    }
+  ]
+}
